@@ -2,7 +2,7 @@
 <h3 align="center">Ruby developer from Mexico</h3>
 
 - 🔭 I’m currently working as a **freelancer**
-- 
+
 - 🌱 I’m currently learning **Ruby on Rails and Data Science**
 
 - 📫 How to reach me **aldoo.enriquez@gmail.com**
