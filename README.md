@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aldo!</h1>
 <h3 align="center">Ruby developer from Mexico</h3>
 
-- 🔭 I’m currently working as a **freelancer**
+- 🔭 I’m currently working at [**Buk**](https://www.buk.mx/) as a lvl 1 dev
 
 - 🌱 I’m currently learning **Ruby on Rails and Data Science**
 
